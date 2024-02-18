@@ -1,7 +1,7 @@
 [![](https://github.com/slycadelic/slycadelic/blob/ac0ba49316e9c49c9d7c863d7375276152945985/github-header-image%20(1).png)](https://www.tech23gaming.com/)
 
 ## 💬 Ask me about
-- Frontend  development (React.js, Next.js)
+- Frontend  development <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/React.svg" alt="React" style="vertical-align:middle; margin:4px"> (React.js, Next.js)
 - Backend Server and Database applications (Node.js, Express.js, Socket.io, MongoDB, SQL)
 - Machine Learning, Deep Learning & Data Science (Matlab, Python)
 - UI/UX Design
