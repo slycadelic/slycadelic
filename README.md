@@ -14,4 +14,6 @@
 ### 📫 Contact me
 <a href="mailto:slypatel@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sp__1991) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/spatel04/)
 
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=slycadelic&hide=["issues"]&show_icons=true&theme=transparent)
+
 ![](https://komarev.com/ghpvc/?username=slycadelic&color=ff4500)
