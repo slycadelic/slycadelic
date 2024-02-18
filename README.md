@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+[![](https://github.com/slycadelic/slycadelic/blob/21b755bc92a3979fa352318ea1be1acb602b8187/github-header-image.png)](https://www.tech23gaming.com/)
 <h1 align="center">Hi I'm Shivam <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center">A Software Developer from India 🇮🇳 🧿</h3>
 
