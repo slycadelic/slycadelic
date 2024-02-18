@@ -1,4 +1,4 @@
-[![](https://github.com/slycadelic/slycadelic/blob/21b755bc92a3979fa352318ea1be1acb602b8187/github-header-image.png)](https://www.tech23gaming.com/)
+[![](https://github.com/slycadelic/slycadelic/blob/2fc43f0efea584f40634e3541bc380f9cc4a62af/github-header-image.png)](https://www.tech23gaming.com/)
 
 ## 💬 Ask me about
 - Backend web development (Node.js, Express.js, Socket.io, MongoDB, SQL)
