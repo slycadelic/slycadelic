@@ -79,7 +79,8 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/YoutubeBadge.svg" alt="Youtube" style="vertical-align:middle; margin:4px"> 
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/SoundCloud.svg" alt="Sound Cloud" style="vertical-align:middle; margin:4px">
 </h3>
-
+<br /> 
+<br /> 
 
 ### 📫 Contact me
 <a href="mailto:shivam_patel@hotmail.com"><img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Outlook.svg" alt="e-Mail" style="vertical-align:middle; margin:4px"/></a> &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Twitter.svg" alt="Twitter" style="vertical-align:middle; margin:4px">](https://twitter.com/sp__1991) &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/LinkdIn.svg" alt="LinkdIn" style="vertical-align:middle; margin:4px">](https://www.linkedin.com/in/spatel04/)
