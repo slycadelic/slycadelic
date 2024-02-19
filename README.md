@@ -1,7 +1,12 @@
 [![](https://github.com/slycadelic/slycadelic/blob/ac0ba49316e9c49c9d7c863d7375276152945985/github-header-image%20(1).png)](https://www.tech23gaming.com/)
 
+## About Me
+I am a software developer with an academic 🎓 background in (MSc) Applied Physics. I have worked 💼 at a <a href='https://pentashieldtech.com/'>defense-based Start-up 🚀</a> for 5 years as a Sr. System Developer👨🏻‍💻. Currently, I run my own start-up <a href='https://www.tech23gaming.com/'>Tech 23 Gaming Solutions</a>, where we are building 🏗️ products in the ⚽️ 🏀 🎾sports/entertainment category, starting with an exciting⚡next-gen <a href='https://www.fantasyfoxapp.com/'>fantasy game</a> for F1 🏎️. We also provide software development services and consultation for websites 🌐, mobile apps 📱, and back-end server 🛢🛠️🔑applications. 
+
+**Excited to bring💡innovation to the world of gaming🎮🕹️👾 & technology🖥️🖱!**
+
 ## 💬 Ask me about
-<h3 style='text-align: center'>
+<h3>
     Frontend  development 
     <br /> 
     <br /> 
@@ -13,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/npm.svg" alt="npm" style="vertical-align:middle; margin:4px"> 
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Backend Server and Database applications 
     <br /> 
     <br/> 
@@ -24,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Google.svg" alt="Google Cloud" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Machine Learning, Deep Learning & Data Science
     <br/> 
     <br /> 
@@ -34,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/AI.svg" alt="AI" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     UI/UX + Responsive Web Design 
     <br/> 
     <br /> 
@@ -44,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Tablet.svg" alt="Tablet" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Robust Full-stack system design and implementation 
     <br/> 
     <br /> 
@@ -53,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/RasPi.svg" alt="Raspberry Pi" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Hosting 
     <br/> 
     <br /> 
@@ -62,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Azure.svg" alt="Azure" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Mobile App Development 
     <br/> 
     <br /> 
@@ -71,7 +76,7 @@
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/AndroidStudio.svg" alt="Android Studio" style="vertical-align:middle; margin:4px">
 </h3>
 <br /> 
-<h3 style='text-align: center'>
+<h3>
     Music, Sports & Video Games 
     <br/> 
     <br /> 
