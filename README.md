@@ -3,8 +3,6 @@
 ## About Me
 I am a software developer with an academic 🎓 background in (MSc) Applied Physics. I have worked 💼 at a <a href='https://pentashieldtech.com/'>defense-based Start-up 🚀</a> for 5 years as a Sr. System Developer👨🏻‍💻. Currently, I run my own start-up <a href='https://www.tech23gaming.com/'>Tech 23 Gaming Solutions</a>, where we are building 🏗️ products in the ⚽️ 🏀 🎾sports/entertainment category, starting with an exciting⚡next-gen <a href='https://www.fantasyfoxapp.com/'>fantasy game</a> for F1 🏎️. We also provide software development services and consultation for websites 🌐, mobile apps 📱, and back-end server 🛢🛠️🔑applications. 
 
-**Excited to bring💡innovation to the world of gaming🎮🕹️👾 & technology🖥️🖱!**
-
 ## 💬 Ask me about
 <h3>
     Frontend  development 
