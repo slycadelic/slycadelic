@@ -85,6 +85,17 @@ I am a software developer with an academic 🎓 background in (MSc) Applied Phys
 <br /> 
 <br /> 
 
+## Project Highlights
+
+### Fantasy Fox Web App 
+https://www.fantasyfox.app/
+
+Fantasy Fox is a Fantasy Sports Platform where users can build their own league format or choose a pre-defined format for playing the game for the entire season. Based on the format, points are awarded to the team after every game/race that takes place in the season. The unique feature that distinguishes Fantasy Fox is the option to customize the format of the game. This allows users to dictate the required engagement level in the game. Players can create their own league and invite friends to join using their league code. Currently, you can play and enjoy F1 Auto-racing and in the near future we will also be adding football, tennis, cricket and other sports. Enjoy and play well!
+
+<img src="/Assets/FantasyFox/1.png" alt='webApp' width=200>
+<img src="/Assets/FantasyFox/2.png" alt='webApp' width=200>
+<img src="/Assets/FantasyFox/3.png" alt='webApp' width=200>
+
 ### 📫 Contact me
 <a href="mailto:shivam_patel@hotmail.com"><img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Outlook.svg" alt="e-Mail" style="vertical-align:middle; margin:4px"/></a> &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Twitter.svg" alt="Twitter" style="vertical-align:middle; margin:4px">](https://twitter.com/sp__1991) &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/LinkdIn.svg" alt="LinkdIn" style="vertical-align:middle; margin:4px">](https://www.linkedin.com/in/spatel04/)
 
