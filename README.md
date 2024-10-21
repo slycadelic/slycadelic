@@ -1,7 +1,7 @@
 [![](https://github.com/slycadelic/slycadelic/blob/ac0ba49316e9c49c9d7c863d7375276152945985/github-header-image%20(1).png)](https://www.tech23gaming.com/)
 
 ## About Me
-I am a software developer with an academic 🎓 background in (MSc) Applied Physics. I have worked 💼 at a <a href='https://pentashieldtech.com/'>defense-based Start-up</a> for 5 years as a Sr. System Developer👨🏻‍💻. Currently, I run my own start-up 🚀<a href='https://www.tech23gaming.com/'>Tech 23 Gaming Solutions</a>, where we are building 🏗️ products in the ⚽️ 🏀 🎾sports/entertainment category, starting with an exciting⚡next-gen <a href='https://www.fantasyfoxapp.com/'>fantasy game</a> for F1 🏎️. We also provide software development services and consultation for websites 🌐, mobile apps 📱, and back-end server 🛢🛠️🔑applications. 
+🙋🏽‍♂️ Hey! My name is Shivam Patel. I am a software developer with an academic 🎓 background in Science and Technology. I have worked 💼 at a <a href='https://pentashieldtech.com/'>defense-based Start-up</a> for 5 years as a Sr. System Developer👨🏻‍💻. Currently (since 2023), I am running my own small team of developers and designers at <a href='https://www.tech23gaming.com/'>Tech 23 🚀</a>. We provide software development services and consultation for websites 🌐, mobile apps 📱, and backend server 🛢🛠️🔑applications. 
 
 ## 💬 Ask me about
 <h3>
@@ -87,26 +87,33 @@ I am a software developer with an academic 🎓 background in (MSc) Applied Phys
 
 ## Project Highlights
 
-### <span style='color: rgb(255,40,0)'>Fantasy Fox Web App<span> 
+### Fantasy Fox
 https://www.fantasyfox.app/
 
-Fantasy Fox is a Fantasy Sports Platform where users can build their own league format or choose a pre-defined format for playing the game for the entire season. Based on the format, points are awarded to the team after every game/race that takes place in the season. The unique feature that distinguishes Fantasy Fox is the option to customize the format of the game. This allows users to dictate the required engagement level in the game. Players can create their own league and invite friends to join using their league code. Currently, you can play and enjoy F1 Auto-racing and in the near future we will also be adding football, tennis, cricket and other sports. Enjoy and play well!
+<img src="/Assets/FantasyFox/1.png" alt='Web App' width=400>
+A sports-based fantasy gaming web app where users create virtual teams and compete based on real-time player performance.
 
-<div style='display: flex; flex-flow: row wrap; gap=10px;'>
-    <img src="/Assets/FantasyFox/1.png" alt='webApp' width=400>
-    <img src="/Assets/FantasyFox/6.png" alt='webApp' width=400>
-    <img src="/Assets/FantasyFox/4.png" alt='webApp' width=400>
-    <img src="/Assets/FantasyFox/5.png" alt='webApp' width=400>
-</div>
+### Fantasy Fox Mobile App
+https://www.fantasyfox.app/
 
-### <span style='color: rgb(255,40,0)'>Fantasy Fox Mobile App<span>
+<img src="/Assets/FantasyFox/Mobile1.png" alt='Mobile App' width=400>
+The Fantasy Fox mobile app prototype is designed for sports enthusiasts to create and manage fantasy teams on the go. With real-time player stats, live match updates, and seamless team management, it brings the full fantasy sports experience to your fingertips. Launching soon—get ready to build your dream team anywhere, anytime!
+
 <a href='https://play.google.com/store/apps/details?id=com.fantasyfoxautoracing&pcampaignid=web_share'>
     <img src="/Assets/GooglePlay.svg" alt="Google Play" style="vertical-align:middle; margin:4px">
 </a>
 
-iOS: Coming Soon
+### Agr-biz Mobile App
+https://www.tech23gaming.com/Portfolio/AgriBizMobile
 
-TODO: Add screenshots and description here.
+<img src="/Assets/FantasyFox/Mobile2.png" alt='Mobile App' width=400>
+Our mobile app prototype is designed for agriculture-based businesses to streamline and manage daily operations efficiently. With an intuitive interface and easy-to-use features, the app simplifies decision-making and enhances workflow management across the entire agricultural process.
+
+### Event Organizer
+https://master.d2bm9lgnbi1v69.amplifyapp.com/
+
+<img src="/Assets/FantasyFox/Events1.png" alt='Mobile App' width=400>
+Our corporate event management tool streamlines event planning with features like scheduling, attendee tracking, real-time updates, and integrated communication. It simplifies organizing conferences, seminars, and company events with a professional and efficient workflow. Launching soon—stay tuned!
 
 ## 📫 Contact me
 <a href="mailto:shivam_patel@hotmail.com"><img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Outlook.svg" alt="e-Mail" style="vertical-align:middle; margin:4px"/></a> &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Twitter.svg" alt="Twitter" style="vertical-align:middle; margin:4px">](https://twitter.com/sp__1991) &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/LinkdIn.svg" alt="LinkdIn" style="vertical-align:middle; margin:4px">](https://www.linkedin.com/in/spatel04/)
