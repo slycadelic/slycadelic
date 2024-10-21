@@ -100,6 +100,7 @@ https://www.fantasyfox.app/
 <img src="/Assets/FantasyFox/Mobile1.png" alt='Mobile App' width=400>
 The Fantasy Fox mobile app prototype is designed for sports enthusiasts to create and manage fantasy teams on the go. With real-time player stats, live match updates, and seamless team management, it brings the full fantasy sports experience to your fingertips. Launching soon—get ready to build your dream team anywhere, anytime! 
 <br />
+<br />
 
 <a href='https://play.google.com/store/apps/details?id=com.fantasyfoxautoracing&pcampaignid=web_share'>
     <img src="/Assets/GooglePlay.svg" alt="Google Play" style="vertical-align:middle; margin:4px">
