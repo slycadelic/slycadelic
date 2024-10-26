@@ -122,6 +122,13 @@ https://master.d2bm9lgnbi1v69.amplifyapp.com/
 Our corporate event management tool streamlines event planning with features like scheduling, attendee tracking, real-time updates, and integrated communication. It simplifies organizing conferences, seminars, and company events with a professional and efficient workflow. Launching soon—stay tuned!
 <hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
 
+### ESG Company Website
+https://encoraa-website.vercel.app/
+
+<img src="/Assets/FantasyFox/Encoraa.png" alt='Mobile App' width=400>
+Website Design + Development for an ESG based company with environment-specific theme. Created UI/UX design and layout in Figma. Multiple layouts for creating an all device responsive website design. Custom graphics, color palette and typography based on environment theme. Developed final website with hosting and performance optimizations using Next.js
+<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
+
 ## 📫 Contact me
 <a href="mailto:shivam_patel@hotmail.com"><img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Outlook.svg" alt="e-Mail" style="vertical-align:middle; margin:4px"/></a> &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Twitter.svg" alt="Twitter" style="vertical-align:middle; margin:4px">](https://twitter.com/sp__1991) &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/LinkdIn.svg" alt="LinkdIn" style="vertical-align:middle; margin:4px">](https://www.linkedin.com/in/spatel04/)
 
