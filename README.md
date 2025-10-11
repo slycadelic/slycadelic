@@ -4,15 +4,15 @@
 
 👋🏽 Hey there! I’m Shivam Patel — a Tech Lead and Full-Stack Developer passionate about building scalable, intelligent, and user-focused software.
 
-💼 I began my journey at Pentashield Tech Pvt. Ltd. (<a href='https://pentashieldtech.com/'>), where I joined as the first employee and helped build the company from the ground up. During my 5 years there, I worked on several defense and aerospace R&D projects for the Indian Defence Forces, gaining hands-on experience in system design, AI-based analytics, and mission-critical software development.
+💼 I began my journey at <a href='https://pentashieldtech.com/'> Pentashield Tech Pvt. Ltd.</a>, where I joined as the first employee and helped build the company from the ground up. During my 5 years there, I worked on several defense and aerospace R&D projects for the Indian Defence Forces, gaining hands-on experience in system design, AI-based analytics, and mission-critical software development.
 
-🚀 I now lead a talented team at Tech 23, delivering end-to-end software solutions and technical consulting for web, mobile, and backend systems. Our focus is on crafting clean, secure, and scalable applications — from Next.js and React Native frontends to Django and FastAPI backends with robust cloud deployments.
+🚀 I now lead a talented team at <a href='https://tech23gaming.com/'>Tech 23</a>, delivering end-to-end software solutions and technical consulting for web, mobile, and backend systems. Our focus is on crafting clean, secure, and scalable applications — from Next.js and React Native frontends to Django and FastAPI backends with robust cloud deployments.
 
-🧠 Most recently, I served as Co-Founder and CTO at Aurus.ai <a href='https://aurus.ai/'>, where I led the development of AI-native platforms — including document intelligence systems and decision-support chatbots built using LLMs and RAG pipelines. This experience strengthened my passion for merging full-stack engineering with cutting-edge AI to deliver products that simplify complex business workflows.
+🧠 Most recently, I served as Co-Founder and CTO at <a href='https://aurus.ai/'>Aurus.ai</a>, where I led the development of AI-native platforms — including document intelligence systems and decision-support chatbots built using LLMs and RAG pipelines. This experience strengthened my passion for merging full-stack engineering with cutting-edge AI to deliver products that simplify complex business workflows.
 
 💡 I love solving challenging problems, designing clean architectures, and turning ambitious ideas into impactful, intelligent products.
 
-## 💬 Ask me about
+## 🛠️ My Skill Set
 <h3>
     🌐 Web App  development
     <br /> 
@@ -26,7 +26,7 @@
 </h3>
 <br /> 
 <h3>
-    🛠️ Backend Server and Database applications 💾
+    🛠️ Backend Server and Database applications 💾 (Node.js, Django, MongoDB, PostGreSQL)
     <br /> 
     <br/> 
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Nodejs.svg" alt="Node.js" style="vertical-align:middle; margin:4px"> 
@@ -37,7 +37,7 @@
 </h3>
 <br /> 
 <h3>
-    🧠 Machine Learning, Deep Learning, Data Science & AI 📈
+    🧠 Machine Learning, Deep Learning, Data Science & AI 📈 (OpenAI, Azure AI services)
     <br/> 
     <br /> 
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Python.svg" alt="Python" style="vertical-align:middle; margin:4px"> 
@@ -66,7 +66,7 @@
 </h3>
 <br /> 
 <h3>
-    ☁️ Hosting 
+    ☁️ Dev Ops (Docker, Railway, Azure, AWS, Celery, Redis and more)
     <br/> 
     <br /> 
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Docker.svg" alt="Docker" style="vertical-align:middle; margin:4px"> 
@@ -84,7 +84,7 @@
 </h3>
 <br /> 
 <h3>
-    🎵 Music, ⚽ Sports & Video Games 🎮
+    Hobbies: 🎵 Music, ⚽ Sports & Video Games 🎮
     <br/> 
     <br /> 
     <img src="https://raw.githubusercontent.com/slycadelic/slycadelic/7adf602709f7cba5ebaa478affeb1452725a40c8/PSbadge.svg" alt="PS3" style="vertical-align:middle; margin:4px"> 
