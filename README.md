@@ -1,7 +1,16 @@
 [![](https://github.com/slycadelic/slycadelic/blob/ac0ba49316e9c49c9d7c863d7375276152945985/github-header-image%20(1).png)](https://www.tech23gaming.com/)
 
 ## About Me
-🙋🏽‍♂️ Hey! My name is Shivam Patel. I am a software developer with an academic 🎓 background in Science and Technology. I have worked 💼 at a <a href='https://pentashieldtech.com/'>defense-based Start-up</a> for 5 years as a Sr. System Developer👨🏻‍💻. Currently (since 2023), I am running my own small team of developers and designers at <a href='https://www.tech23gaming.com/'>Tech 23 🚀</a>. We provide software development services and consultation for websites 🌐, mobile apps 📱, and backend server 🛢🛠️🔑applications. 
+
+👋🏽 Hey there! I’m Shivam Patel — a Tech Lead and Full-Stack Developer passionate about building scalable, intelligent, and user-focused software.
+
+💼 I began my journey at Pentashield Tech Pvt. Ltd. (<a href='https://pentashieldtech.com/'>), where I joined as the first employee and helped build the company from the ground up. During my 5 years there, I worked on several defense and aerospace R&D projects for the Indian Defence Forces, gaining hands-on experience in system design, AI-based analytics, and mission-critical software development.
+
+🚀 I now lead a talented team at Tech 23, delivering end-to-end software solutions and technical consulting for web, mobile, and backend systems. Our focus is on crafting clean, secure, and scalable applications — from Next.js and React Native frontends to Django and FastAPI backends with robust cloud deployments.
+
+🧠 Most recently, I served as Co-Founder and CTO at Aurus.ai <a href='https://aurus.ai/'>, where I led the development of AI-native platforms — including document intelligence systems and decision-support chatbots built using LLMs and RAG pipelines. This experience strengthened my passion for merging full-stack engineering with cutting-edge AI to deliver products that simplify complex business workflows.
+
+💡 I love solving challenging problems, designing clean architectures, and turning ambitious ideas into impactful, intelligent products.
 
 ## 💬 Ask me about
 <h3>
