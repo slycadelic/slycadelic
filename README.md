@@ -2,15 +2,59 @@
 
 ## About Me
 
-👋🏽 Hey there! I’m Shivam Patel — a Tech Lead and Full-Stack Developer passionate about building scalable, intelligent, and user-focused software.
+### 👋🏽 Hey there! I’m **Shivam Patel** — an AI-focused Software Engineer, System Architect, and Product Builder with a strong background in machine learning, system design, and scalable backend architectures.
 
-💼 I began my journey at <a href='https://pentashieldtech.com/'> Pentashield Tech Pvt. Ltd.</a>, where I joined as the first employee and helped build the company from the ground up. During my 5 years there, I worked on several defense and aerospace R&D projects for the Indian Defence Forces, gaining hands-on experience in system design, AI-based analytics, and mission-critical software development.
+### 🧭 Career Journey & Timeline
 
-🚀 I now lead a talented team at <a href='https://tech23gaming.com/'>Tech 23</a>, delivering end-to-end software solutions and technical consulting for web, mobile, and backend systems. Our focus is on crafting clean, secure, and scalable applications — from Next.js and React Native frontends to Django and FastAPI backends with robust cloud deployments.
+#### **🚀 Trainee Data Scientist → First Employee | <a href="https://pentashieldtech.com/">PentaShield Tech Pvt. Ltd.</a>**
+I began my career as a **trainee data scientist** and quickly became the **first employee** at PentaShield Tech. Over the next several years, I helped build the company from the ground up—wearing multiple hats across **AI/ML, analytics, backend engineering, and system design**.
+My work involved **defense and aerospace R&D projects for the Indian Defence Forces**, where I contributed to **mission-critical systems**, AI-driven analytics pipelines, and highly reliable software architectures operating under real-world constraints.
 
-🧠 Most recently, I served as Co-Founder and CTO at <a href='https://aurus.ai/'>Aurus.ai</a>, where I led the development of AI-native platforms — including document intelligence systems and decision-support chatbots built using LLMs and RAG pipelines. This experience strengthened my passion for merging full-stack engineering with cutting-edge AI to deliver products that simplify complex business workflows.
+#### **🧪 System Analyst | NFSU – R&D Team (Indian Defence Projects)**
+I then worked as a **System Analyst** with the **NFSU R&D team**, contributing to advanced defense-oriented research initiatives.
+This role deepened my expertise in:
 
-💡 I love solving challenging problems, designing clean architectures, and turning ambitious ideas into impactful, intelligent products.
+* Translating complex domain requirements into technical system designs
+* Designing **secure, fault-tolerant architectures**
+* Working closely with researchers, analysts, and defense stakeholders
+
+#### **🧑🏽‍💻 Full-Stack Developer (MERN) | <a href="https://tech23gaming.com/">Tech 23</a>**
+At Tech 23, I worked as a **full-stack developer** building and delivering multiple production-grade applications using the **MERN stack**.
+I contributed across the entire lifecycle—from frontend UX to backend APIs and databases—while making system-level decisions around **performance, scalability, and security**.
+
+
+#### **⚙️ Founding Engineer | <a href="https://aurus.ai/">Aurus.ai</a>**
+As a **Founding Engineer** at Aurus.ai, I focused heavily on **Python-based backend systems** using **Django and FastAPI**, while leading the technical development of **AI-native products**.
+My work included:
+
+* AI-powered document intelligence platforms
+* LLM-based systems using **RAG pipelines**
+* Asynchronous processing, scalable APIs, and cloud-native deployments
+
+#### **🧠 Co-Founder & CPO | <a href="https://neuralledger.co/">Neural Ledger</a>**
+Most recently, I co-founded <a href="https://neuralledger.co/">Neural Ledger</a> as Chief Product Officer (CPO), where I lead the design of an AI-driven FP&A platform for enterprise CFOs and finance teams. Neural Ledger connects directly to existing ERP and financial systems, transforming fragmented financial data into real-time insights and decision-ready intelligence.
+
+My role focuses on defining AI-first system architectures, building reliable data ingestion and modeling pipelines, and translating complex financial workflows into scalable, secure, and enterprise-grade solutions—enabling teams to move from weeks of spreadsheet analysis to actionable answers in minutes.
+
+### 🔑 Core Strengths
+
+* **AI/ML Systems**: LLM-powered applications, RAG pipelines, document intelligence systems, AI-driven analytics and decision-support platforms
+* **Backend Engineering**: Python, Django, FastAPI, Node.js; REST & async APIs, background task processing, data ingestion pipelines
+* **System Design & Architecture**:
+  * Microservices and modular monolith architectures
+  * Service-to-service communication, API contracts, and data consistency strategies
+  * Designing scalable, secure, and fault-tolerant production systems
+  * Experience with cloud-native deployments and system observability
+* **Full-Stack Development**: MERN stack, Next.js, React Native; building cohesive systems from frontend UX to backend and database layers
+* **Project & Delivery Management**:
+  * End-to-end ownership from requirements gathering to production release
+  * Breaking complex problems into executable technical roadmaps
+  * Sprint planning, task prioritization, and cross-functional coordination
+  * Managing timelines, technical risk, and stakeholder expectations
+* **Product & Technical Leadership**:
+  * Bridging business goals with system architecture and technical execution
+  * Mentoring engineers and driving engineering best practices
+  * Making long-term technical decisions with product scalability in mind
 
 ## 🛠️ My Skill Set
 <h3>
@@ -93,50 +137,6 @@
 </h3>
 <br /> 
 <br /> 
-
-## Project Highlights
-
-### Fantasy Fox
-https://www.fantasyfox.app/
-
-<img src="/Assets/FantasyFox/1.png" alt='Web App' width=400>
-A sports-based fantasy gaming web app where users create virtual teams and compete based on real-time player performance.
-<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
-
-### Fantasy Fox Mobile App
-https://www.fantasyfox.app/
-
-<img src="/Assets/FantasyFox/Mobile1.png" alt='Mobile App' width=400>
-The Fantasy Fox mobile app prototype is designed for sports enthusiasts to create and manage fantasy teams on the go. With real-time player stats, live match updates, and seamless team management, it brings the full fantasy sports experience to your fingertips. Launching soon—get ready to build your dream team anywhere, anytime! 
-<br />
-<br />
-
-<a href='https://play.google.com/store/apps/details?id=com.fantasyfoxautoracing&pcampaignid=web_share'>
-    <img src="/Assets/GooglePlay.svg" alt="Google Play" style="vertical-align:middle; margin:4px">
-</a>
-<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
-
-
-### Agr-biz Mobile App
-https://www.tech23gaming.com/Portfolio/AgriBizMobile
-
-<img src="/Assets/FantasyFox/Mobile2.png" alt='Mobile App' width=400>
-Our mobile app prototype is designed for agriculture-based businesses to streamline and manage daily operations efficiently. With an intuitive interface and easy-to-use features, the app simplifies decision-making and enhances workflow management across the entire agricultural process.
-<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
-
-### Event Organizer
-https://master.d2bm9lgnbi1v69.amplifyapp.com/
-
-<img src="/Assets/FantasyFox/Events1.png" alt='Mobile App' width=400>
-Our corporate event management tool streamlines event planning with features like scheduling, attendee tracking, real-time updates, and integrated communication. It simplifies organizing conferences, seminars, and company events with a professional and efficient workflow. Launching soon—stay tuned!
-<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
-
-### ESG Company Website
-https://encoraa-website.vercel.app/
-
-<img src="/Assets/FantasyFox/Encoraa.png" alt='Mobile App' width=400>
-Website Design + Development for an ESG based company with environment-specific theme. Created UI/UX design and layout in Figma. Multiple layouts for creating an all device responsive website design. Custom graphics, color palette and typography based on environment theme. Developed final website with hosting and performance optimizations using Next.js
-<hr style='width: 90%; background-color: rgb(255,40,0); margin: 10px 0 40px 0' />
 
 ## 📫 Contact me
 <a href="mailto:shivam_patel@hotmail.com"><img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Outlook.svg" alt="e-Mail" style="vertical-align:middle; margin:4px"/></a> &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/Twitter.svg" alt="Twitter" style="vertical-align:middle; margin:4px">](https://twitter.com/sp__1991) &nbsp; [<img src="https://raw.githubusercontent.com/slycadelic/slycadelic/main/Assets/LinkdIn.svg" alt="LinkdIn" style="vertical-align:middle; margin:4px">](https://www.linkedin.com/in/spatel04/)
